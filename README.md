@@ -20,7 +20,7 @@ A small, realistic Talent Ops analytics MVP that simulates an ATS-style pipeline
 ### Executive Overview
 ![Executive Overview](dashboards/screenshots/Overview1.png)
 
-### Optional extra views
+### Focused views
 ![KPI Cards](dashboards/screenshots/people_bottleneck.png)
 ![Funnel + Risks](dashboards/screenshots/Risk_funnel.png)
 
