@@ -1,0 +1,9 @@
+check_name,n
+missing_owner,7
+missing_target_role,1
+missing_current_stage,0
+duplicate_candidates,5
+invalid_stage_labels,5
+stage_date_issues_exited_le_entered,8
+hired_without_offer,0
+panel_without_scorecard,2

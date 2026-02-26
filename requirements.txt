@@ -1,0 +1,10 @@
+Faker==40.5.1
+greenlet==3.3.2
+numpy==2.4.2
+packaging @ file:///home/task_176104885106445/conda-bld/packaging_1761049078006/work
+pandas==3.0.1
+python-dateutil==2.9.0.post0
+six==1.17.0
+SQLAlchemy==2.0.47
+tabulate==0.9.0
+typing_extensions==4.15.0

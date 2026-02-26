@@ -1,0 +1,6 @@
+event_id,candidate_id,stage_name,entered_stage_at,exited_stage_at,outcome,owner
+154,37,InvalidStage,2026-01-29T13:00:34,,Rejected,HM-1
+305,74,InvalidStage,2026-02-15T01:00:34,2026-02-16T08:00:34,,HM-2
+442,108,InvalidStage,2026-02-23T15:00:34,,Rejected,HM-1
+500,122,InvalidStage,2026-01-13T11:00:34,2026-01-18T01:00:34,,
+502,122,InvalidStage,2026-01-20T08:00:34,2026-01-21T14:00:34,,

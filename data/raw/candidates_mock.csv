@@ -1,0 +1,126 @@
+candidate_id,full_name,target_role,current_company,location,years_experience,source_channel,skills_text,compensation_expectation,current_stage,owner,applied_at
+1,Allison Hill,Computer Vision Engineer,Uber,"Vancouver, BC",6,LinkedIn,"PyTorch, Linux, Docker, CNN, OpenCV",126848,Rejected,Recruiter A,2026-02-23T19:00:34
+2,Noah Rhodes,BizOps Analyst,Petco,"Vancouver, BC",4,Referral,"Power BI, Process Improvement, Automation, SQL, Stakeholder Management",123848,Rejected,Ops,2026-02-16T13:00:34
+3,Angie Henderson,BizOps Analyst,Amazon,"Calgary, AB",0,LinkedIn,"Automation, Excel, SQL, KPI Reporting, Stakeholder Management",93850,Rejected,Recruiter A,2026-01-11T17:00:34
+4,Daniel Wagner,BizOps Analyst,Petco,Remote (Canada),3,Outreach,"Excel, KPI Reporting, Stakeholder Management, Power BI, Process Improvement",115130,Rejected,Recruiter A,2026-01-14T11:00:34
+5,Cristian Santos,Deployment Engineer,Shopify,"Vancouver, BC",4,Outreach,"CI/CD, Kubernetes, Linux, Networking, Incident Response",111051,Withdrawn,Recruiter A,2026-01-31T11:00:34
+6,Connie Lawrence,BizOps Analyst,Shopify,"Toronto, ON",6,LinkedIn,"Process Improvement, KPI Reporting, SQL, Automation, Stakeholder Management",142394,Rejected,HM-2,2026-01-19T06:00:34
+7,Abigail Shaffer,ML Engineer (Edge),Microsoft,"Vancouver, BC",2,LinkedIn,"Edge Deployment, TensorRT, C++, PyTorch, Model Optimization",108504,Rejected,Ops,2026-01-27T03:00:34
+8,Gina Moore,Solutions Engineer,Petco,"Montreal, QC",1,LinkedIn,"Communication, Systems Thinking, SQL, Python, Customer Facing",103867,Rejected,Recruiter B,2026-02-09T03:00:34
+9,Gabrielle Davis,Solutions Engineer,Sephora,"Calgary, AB",4,Outreach,"Customer Facing, Python, SQL, Communication, Troubleshooting",129626,Rejected,Ops,2026-02-24T16:00:34
+10,Ryan Munoz,BizOps Analyst,Petco,"Calgary, AB",2,Job Board,"Process Improvement, Stakeholder Management, Excel, Power BI, Automation",100207,Rejected,Ops,2026-01-21T14:00:34
+11,Monica Herrera,Solutions Engineer,Under Armour,"Toronto, ON",2,LinkedIn,"Python, Customer Facing, Systems Thinking, APIs, SQL",107078,Rejected,HM-2,2026-01-21T12:00:34
+12,Jamie Arnold,Deployment Engineer,Shopify,"Montreal, QC",5,LinkedIn,"Docker, Incident Response, Linux, CI/CD, Kubernetes",134669,Withdrawn,HM-1,2026-01-20T01:00:34
+13,Lisa Hensley,BizOps Analyst,Sephora,"Vancouver, BC",1,Outreach,"Power BI, KPI Reporting, Excel, SQL, Process Improvement",102193,Hired,Recruiter B,2026-02-19T12:00:34
+14,Michele Williams,Deployment Engineer,Sephora,"Calgary, AB",5,LinkedIn,"Docker, Kubernetes, Linux, Incident Response, Monitoring",120056,Rejected,HM-1,2026-02-10T14:00:34
+15,Dylan Miller,Solutions Engineer,Stripe,"Calgary, AB",7,LinkedIn,"Customer Facing, SQL, Troubleshooting, Python, Communication",136072,Rejected,HM-2,2026-02-12T18:00:34
+16,Brian Ramirez,Deployment Engineer,Under Armour,"Toronto, ON",2,LinkedIn,"Docker, Networking, Incident Response, Linux, CI/CD",115498,Rejected,Recruiter A,2026-02-10T07:00:34
+17,Holly Wood,Deployment Engineer,Shopify,Remote (Canada),2,LinkedIn,"Docker, Linux, Networking, Incident Response, Monitoring",104703,Rejected,Ops,2026-01-13T23:00:34
+18,Derek Zuniga,Deployment Engineer,Petco,Remote (Canada),3,LinkedIn,"Networking, Monitoring, Incident Response, Docker, CI/CD",114436,Withdrawn,Ops,2026-02-10T08:00:34
+19,Lisa Jackson,Deployment Engineer,Amazon,"Toronto, ON",3,Job Board,"Monitoring, Incident Response, CI/CD, Linux, Kubernetes",106782,Hired,Ops,2026-01-21T15:00:34
+20,Carla Gray,Computer Vision Engineer,Amazon,"Montreal, QC",7,LinkedIn,"Docker, OpenCV, Linux, CUDA, Computer Vision",132444,Withdrawn,Ops,2026-02-16T23:00:34
+21,Margaret Hawkins DDS,ML Engineer (Edge),Microsoft,"Toronto, ON",0,Referral,"Linux, C++, Model Optimization, ONNX, TensorRT",86176,Rejected,Ops,2026-02-02T18:00:34
+22,Patty Perez,ML Engineer (Edge),Microsoft,"Toronto, ON",3,Job Board,"Linux, TensorRT, Model Optimization, ONNX, Edge Deployment",103812,Rejected,Recruiter B,2026-02-04T06:00:34
+23,Ethan Adams,BizOps Analyst,Sephora,"Toronto, ON",2,Job Board,"Automation, Process Improvement, Power BI, SQL, KPI Reporting",102328,Withdrawn,Ops,2026-02-08T17:00:34
+24,Tommy Walter,Solutions Engineer,Sephora,Remote (Canada),7,LinkedIn,"SQL, Python, APIs, Customer Facing, Communication",134552,Rejected,Ops,2026-02-02T20:00:34
+25,Matthew Foster,BizOps Analyst,Google,"Toronto, ON",9,Referral,"Power BI, Process Improvement, Automation, KPI Reporting, Excel",159132,Rejected,HM-2,2026-01-14T09:00:34
+26,Judy Baker,BizOps Analyst,Petco,"Calgary, AB",4,Outreach,"SQL, Power BI, Stakeholder Management, Excel, KPI Reporting",116286,Rejected,Recruiter B,2026-01-31T22:00:34
+27,Justin Baker,Deployment Engineer,Uber,"Toronto, ON",3,LinkedIn,"Docker, Kubernetes, CI/CD, Monitoring, Incident Response",118505,Withdrawn,Recruiter A,2026-02-14T22:00:34
+28,Stephanie Ross,ML Engineer (Edge),Stripe,"Toronto, ON",3,LinkedIn,"ONNX, Edge Deployment, TensorRT, C++, Linux",105386,Rejected,Recruiter B,2026-01-16T01:00:34
+29,Zachary Hicks,ML Engineer (Edge),Uber,"Vancouver, BC",6,Referral,"C++, PyTorch, Model Optimization, Linux, Edge Deployment",132165,Rejected,Recruiter B,2026-02-18T05:00:34
+30,Anthony Rodriguez,BizOps Analyst,Stripe,"Montreal, QC",8,Job Board,"Stakeholder Management, Power BI, Excel, Automation, Process Improvement",146493,Withdrawn,HM-2,2026-01-16T11:00:34
+31,Rebecca Henderson,Solutions Engineer,Petco,"Montreal, QC",5,LinkedIn,"Troubleshooting, SQL, Customer Facing, Communication, Python",124010,Rejected,HM-2,2026-01-30T09:00:34
+32,James Ferrell,Computer Vision Engineer,Microsoft,Remote (Canada),3,Job Board,"CNN, Computer Vision, CUDA, PyTorch, Docker",116730,Rejected,Recruiter B,2026-01-22T00:00:34
+33,Tricia Valencia,ML Engineer (Edge),Intel,"Calgary, AB",6,Job Board,"Model Optimization, PyTorch, Edge Deployment, Linux, ONNX",124888,Hired,HM-1,2026-01-29T15:00:34
+34,Nathan Maldonado,BizOps Analyst,Stripe,"Vancouver, BC",4,LinkedIn,"Automation, SQL, Excel, Process Improvement, Stakeholder Management",110635,Rejected,Recruiter B,2026-02-22T08:00:34
+35,Debra Davidson,Deployment Engineer,Shopify,"Calgary, AB",5,Outreach,"Incident Response, Kubernetes, CI/CD, Docker, Networking",132238,Rejected,HM-2,2026-02-02T14:00:34
+36,Jeffrey Chavez,Computer Vision Engineer,Microsoft,"Calgary, AB",5,Job Board,"CUDA, Computer Vision, Docker, OpenCV, Linux",129997,Rejected,HM-2,2026-02-13T17:00:34
+37,Sherri Baker,Computer Vision Engineer,Google,"Calgary, AB",3,LinkedIn,"Linux, PyTorch, CNN, CUDA, Computer Vision",103414,InvalidStage,HM-1,2026-01-25T16:00:34
+38,Cassandra Gaines,Deployment Engineer,Intel,Remote (Canada),6,Job Board,"Docker, CI/CD, Linux, Kubernetes, Networking",141634,Rejected,HM-2,2026-01-27T06:00:34
+39,Elizabeth Fowler,Deployment Engineer,Petco,Remote (Canada),2,LinkedIn,"Docker, Networking, Kubernetes, Incident Response, Linux",111976,Hired,Ops,2026-02-09T09:00:34
+40,Brittany Farmer,BizOps Analyst,Stripe,"Toronto, ON",3,Referral,"Process Improvement, Power BI, KPI Reporting, Stakeholder Management, Excel",119083,Withdrawn,Ops,2026-02-24T17:00:34
+41,Paula Moreno,Deployment Engineer,Shopify,Remote (Canada),2,LinkedIn,"Monitoring, Linux, CI/CD, Networking, Docker",99953,Rejected,HM-2,2026-02-05T16:00:34
+42,Fred Smith,ML Engineer (Edge),Petco,Remote (Canada),7,LinkedIn,"ONNX, Edge Deployment, Model Optimization, TensorRT, C++",140904,Rejected,,2026-01-22T15:00:34
+43,Sherry Decker,Deployment Engineer,Amazon,"Vancouver, BC",4,LinkedIn,"Kubernetes, Networking, CI/CD, Docker, Linux",125654,Withdrawn,,2026-02-21T07:00:34
+44,Anthony Humphrey,Computer Vision Engineer,Intel,"Montreal, QC",6,Referral,"CNN, Computer Vision, Docker, OpenCV, Linux",143533,Rejected,HM-1,2026-02-11T03:00:34
+45,Angelica Tucker,Computer Vision Engineer,Petco,"Vancouver, BC",5,LinkedIn,"OpenCV, PyTorch, Computer Vision, Docker, CNN",124859,Rejected,Recruiter A,2026-02-21T14:00:34
+46,Philip Cannon,BizOps Analyst,Amazon,"Toronto, ON",4,LinkedIn,"Automation, Excel, SQL, Process Improvement, KPI Reporting",129326,Rejected,Recruiter A,2026-02-13T06:00:34
+47,John Pierce,Solutions Engineer,Under Armour,"Montreal, QC",1,Job Board,"Customer Facing, Troubleshooting, APIs, SQL, Communication",104358,Hired,Ops,2026-01-12T07:00:34
+48,Shane Henderson,Computer Vision Engineer,Intel,"Calgary, AB",2,LinkedIn,"Linux, CNN, Computer Vision, PyTorch, Docker",96679,Rejected,,2026-01-13T11:00:34
+49,Joshua Blair,BizOps Analyst,Microsoft,Remote (Canada),2,LinkedIn,"KPI Reporting, Process Improvement, SQL, Automation, Stakeholder Management",106921,Rejected,Ops,2026-02-19T14:00:34
+50,Eric Carney,Solutions Engineer,Microsoft,"Vancouver, BC",2,LinkedIn,"SQL, Troubleshooting, Systems Thinking, Customer Facing, Communication",112862,Rejected,HM-2,2026-02-24T22:00:34
+51,Jessica Holmes,,Under Armour,"Montreal, QC",0,LinkedIn,"Python, Communication, SQL",82945,Rejected,Recruiter B,2026-01-18T12:00:34
+52,Danny Morgan,Computer Vision Engineer,Stripe,"Toronto, ON",3,Outreach,"CNN, PyTorch, Docker, Linux, OpenCV",112563,Rejected,HM-1,2026-02-08T06:00:34
+53,Crystal Robinson,Solutions Engineer,Amazon,"Calgary, AB",5,LinkedIn,"SQL, Troubleshooting, APIs, Communication, Systems Thinking",117084,Rejected,HM-2,2026-02-06T01:00:34
+54,Mark Perez,Deployment Engineer,Shopify,Remote (Canada),0,LinkedIn,"Linux, Incident Response, Kubernetes, Monitoring, Docker",89825,Rejected,Recruiter A,2026-02-11T06:00:34
+55,Shannon Jones,ML Engineer (Edge),Under Armour,"Montreal, QC",1,Job Board,"Model Optimization, PyTorch, Edge Deployment, Linux, C++",106234,Rejected,Recruiter B,2026-02-24T20:00:34
+56,Michael Lewis,Computer Vision Engineer,Microsoft,"Calgary, AB",4,Job Board,"Computer Vision, PyTorch, OpenCV, CNN, Docker",120376,Rejected,Recruiter A,2026-01-25T02:00:34
+57,Timothy Duncan,Computer Vision Engineer,Google,"Vancouver, BC",1,Job Board,"PyTorch, CUDA, Linux, OpenCV, Computer Vision",90838,Rejected,Recruiter B,2026-02-02T06:00:34
+58,Richard Aguirre,BizOps Analyst,Stripe,"Toronto, ON",5,Outreach,"KPI Reporting, Power BI, Process Improvement, Excel, SQL",136108,Rejected,Ops,2026-01-26T23:00:34
+59,Brent Jordan,BizOps Analyst,Amazon,"Montreal, QC",10,LinkedIn,"Power BI, Stakeholder Management, Automation, SQL, Process Improvement",166969,Rejected,HM-1,2026-02-13T07:00:34
+60,John Daniel,BizOps Analyst,Sephora,"Calgary, AB",2,LinkedIn,"Power BI, Stakeholder Management, Excel, SQL, Automation",115870,Withdrawn,HM-2,2026-02-07T12:00:34
+61,Victoria Garcia,Computer Vision Engineer,Under Armour,"Toronto, ON",3,Referral,"Docker, CUDA, Computer Vision, PyTorch, CNN",112670,Rejected,Recruiter B,2026-01-30T14:00:34
+62,Gerald Hensley,BizOps Analyst,Google,Remote (Canada),6,Job Board,"Automation, Process Improvement, Power BI, SQL, Excel",127773,Rejected,Recruiter B,2026-02-21T15:00:34
+63,Connor West,Computer Vision Engineer,Intel,Remote (Canada),4,LinkedIn,"Computer Vision, Docker, PyTorch, OpenCV, CUDA",122485,Rejected,Recruiter B,2026-02-02T16:00:34
+64,Donald Wright,BizOps Analyst,Microsoft,Remote (Canada),5,Job Board,"KPI Reporting, Automation, Power BI, Stakeholder Management, Process Improvement",120823,Withdrawn,HM-1,2026-02-23T10:00:34
+65,Jessica Callahan,ML Engineer (Edge),Microsoft,"Calgary, AB",6,Job Board,"Edge Deployment, PyTorch, C++, Linux, TensorRT",133166,Rejected,HM-1,2026-02-02T13:00:34
+66,Amber Kidd,BizOps Analyst,Stripe,"Vancouver, BC",2,LinkedIn,"Excel, Process Improvement, Automation, SQL, Power BI",99003,Rejected,HM-2,2026-01-14T23:00:34
+67,Tracy House,ML Engineer (Edge),Intel,"Toronto, ON",1,LinkedIn,"TensorRT, ONNX, Linux, PyTorch, C++",89092,Rejected,HM-2,2026-02-16T15:00:34
+68,Carol Tucker,Deployment Engineer,Amazon,"Toronto, ON",2,LinkedIn,"Networking, Incident Response, Docker, Linux, CI/CD",97717,Rejected,Recruiter A,2026-01-30T03:00:34
+69,James Brown,ML Engineer (Edge),Amazon,"Calgary, AB",5,Outreach,"Edge Deployment, Model Optimization, TensorRT, C++, ONNX",132009,Withdrawn,HM-1,2026-02-24T18:00:34
+70,William Baker,Deployment Engineer,Amazon,"Toronto, ON",4,LinkedIn,"Docker, Monitoring, Incident Response, Kubernetes, Linux",129181,Rejected,HM-2,2026-02-05T07:00:34
+71,Jordan Henderson,BizOps Analyst,Microsoft,"Montreal, QC",6,Job Board,"SQL, Automation, Stakeholder Management, Process Improvement, Excel",127115,Rejected,Ops,2026-02-04T22:00:34
+72,Whitney Peters,Computer Vision Engineer,Petco,Remote (Canada),3,Outreach,"CUDA, CNN, OpenCV, Computer Vision, Linux",121231,Rejected,Ops,2026-01-21T02:00:34
+73,Brittney Phillips,Solutions Engineer,Shopify,"Montreal, QC",2,LinkedIn,"Communication, SQL, Systems Thinking, Customer Facing, APIs",99546,Rejected,Recruiter A,2026-01-21T08:00:34
+74,Lauren Daniels,Solutions Engineer,Amazon,Remote (Canada),6,LinkedIn,"Customer Facing, Communication, SQL, Python, Troubleshooting",135135,Rejected,HM-2,2026-02-14T15:00:34
+75,Amy Silva,BizOps Analyst,Intel,Remote (Canada),3,LinkedIn,"KPI Reporting, Stakeholder Management, Automation, Process Improvement, Power BI",122537,Rejected,Recruiter B,2026-02-22T15:00:34
+76,Sarah Moore,BizOps Analyst,Uber,"Toronto, ON",4,LinkedIn,"KPI Reporting, Process Improvement, SQL, Stakeholder Management, Automation",113729,Rejected,HM-2,2026-02-18T10:00:34
+77,Angela Lopez,Solutions Engineer,Google,Remote (Canada),7,Outreach,"Communication, Systems Thinking, APIs, Customer Facing, Python",134931,Rejected,Recruiter B,2026-01-29T14:00:34
+78,Megan Young,Computer Vision Engineer,Under Armour,"Montreal, QC",3,LinkedIn,"PyTorch, Docker, CNN, Computer Vision, OpenCV",113258,Withdrawn,HM-1,2026-01-20T07:00:34
+79,Steve Sanchez,BizOps Analyst,Under Armour,"Calgary, AB",5,Referral,"Process Improvement, Automation, Excel, Power BI, Stakeholder Management",129968,Rejected,Ops,2026-02-04T12:00:34
+80,Lisa Barnes,ML Engineer (Edge),Amazon,"Toronto, ON",3,LinkedIn,"Linux, C++, Edge Deployment, Model Optimization, PyTorch",109464,Rejected,Recruiter A,2026-02-15T23:00:34
+81,Kelly Donovan,Deployment Engineer,Petco,Remote (Canada),0,LinkedIn,"Docker, CI/CD, Linux, Networking, Incident Response",96410,Rejected,Ops,2026-01-27T23:00:34
+82,Mike Allen,Computer Vision Engineer,Under Armour,Remote (Canada),0,LinkedIn,"OpenCV, CNN, Docker, PyTorch, Linux",84958,Rejected,HM-1,2026-01-24T07:00:34
+83,Michael Evans,Deployment Engineer,Google,"Vancouver, BC",3,LinkedIn,"Networking, Kubernetes, CI/CD, Incident Response, Monitoring",105763,Withdrawn,Recruiter B,2026-02-14T18:00:34
+84,Paul Jones,BizOps Analyst,Intel,Remote (Canada),4,LinkedIn,"Power BI, Stakeholder Management, Process Improvement, Excel, KPI Reporting",111715,Rejected,Recruiter A,2026-01-15T09:00:34
+85,Zachary Ferrell,Computer Vision Engineer,Petco,"Montreal, QC",3,LinkedIn,"Linux, CUDA, Docker, OpenCV, Computer Vision",122498,Withdrawn,HM-2,2026-02-20T10:00:34
+86,Daniel Baker,BizOps Analyst,Google,"Vancouver, BC",3,Referral,"Power BI, SQL, Process Improvement, Stakeholder Management, Automation",113120,Rejected,HM-1,2026-02-12T09:00:34
+87,Shirley Suarez,Solutions Engineer,Petco,"Toronto, ON",6,Referral,"Troubleshooting, SQL, APIs, Communication, Customer Facing",129925,Withdrawn,,2026-01-17T14:00:34
+88,Christopher Bass,Deployment Engineer,Shopify,"Montreal, QC",2,LinkedIn,"Linux, Kubernetes, Monitoring, Networking, Incident Response",108053,Rejected,HM-1,2026-01-20T05:00:34
+89,Lisa Archer,Computer Vision Engineer,Uber,"Vancouver, BC",1,Referral,"PyTorch, CNN, Computer Vision, OpenCV, CUDA",93085,Rejected,HM-1,2026-02-15T11:00:34
+90,Aimee Montoya,Computer Vision Engineer,Shopify,Remote (Canada),1,LinkedIn,"Computer Vision, PyTorch, Linux, OpenCV, Docker",101653,Rejected,Recruiter A,2026-02-02T12:00:34
+91,Matthew Mcmillan,BizOps Analyst,Intel,"Montreal, QC",4,Outreach,"Process Improvement, KPI Reporting, SQL, Power BI, Automation",110172,Withdrawn,Recruiter B,2026-02-24T11:00:34
+92,Brian Rodriguez,Solutions Engineer,Microsoft,"Toronto, ON",3,LinkedIn,"Python, APIs, Troubleshooting, Customer Facing, Systems Thinking",117978,Withdrawn,,2026-01-25T00:00:34
+93,Denise Jacobs,Solutions Engineer,Uber,"Vancouver, BC",4,Outreach,"Communication, Troubleshooting, Customer Facing, Systems Thinking, Python",121816,Rejected,HM-2,2026-01-23T02:00:34
+94,Christina Walters,Solutions Engineer,Under Armour,Remote (Canada),6,Outreach,"Customer Facing, APIs, SQL, Systems Thinking, Troubleshooting",135298,Rejected,Recruiter A,2026-01-13T23:00:34
+95,John Whitehead,ML Engineer (Edge),Petco,"Montreal, QC",5,Job Board,"PyTorch, Linux, C++, Model Optimization, Edge Deployment",121418,Rejected,Ops,2026-01-27T18:00:34
+96,Anna Henderson,BizOps Analyst,Amazon,"Toronto, ON",1,LinkedIn,"KPI Reporting, Stakeholder Management, Automation, Process Improvement, Excel",100697,Rejected,Ops,2026-02-21T23:00:34
+97,Aaron Wise,ML Engineer (Edge),Amazon,"Calgary, AB",2,Job Board,"TensorRT, Linux, PyTorch, C++, ONNX",98707,Rejected,HM-2,2026-02-20T06:00:34
+98,Deborah Figueroa,BizOps Analyst,Petco,"Montreal, QC",4,Outreach,"Automation, SQL, Stakeholder Management, KPI Reporting, Excel",124545,Rejected,Ops,2026-02-22T20:00:34
+99,Jessica Smith,Deployment Engineer,Intel,"Toronto, ON",5,Job Board,"Kubernetes, Monitoring, Linux, CI/CD, Incident Response",131358,Rejected,Ops,2026-02-21T12:00:34
+100,Stephen Mckee,BizOps Analyst,Petco,"Calgary, AB",1,Outreach,"KPI Reporting, Process Improvement, Automation, SQL, Excel",106349,Rejected,Ops,2026-02-04T23:00:34
+101,Sandra Aguilar,Solutions Engineer,Shopify,"Montreal, QC",4,Outreach,"Systems Thinking, APIs, Communication, Customer Facing, SQL",114018,Rejected,Recruiter B,2026-02-21T05:00:34
+102,Cameron Parker,Deployment Engineer,Petco,Remote (Canada),3,LinkedIn,"Linux, Docker, CI/CD, Networking, Kubernetes",108704,Withdrawn,Recruiter A,2026-01-24T12:00:34
+103,Rebecca Valencia,Deployment Engineer,Stripe,"Montreal, QC",7,LinkedIn,"Linux, Monitoring, Networking, CI/CD, Docker",148225,Rejected,Recruiter A,2026-01-30T01:00:34
+104,Christine Wright,Deployment Engineer,Petco,"Toronto, ON",7,Outreach,"Monitoring, Kubernetes, CI/CD, Networking, Docker",145176,Rejected,HM-2,2026-02-22T16:00:34
+105,Richard Henson,Solutions Engineer,Intel,Remote (Canada),6,LinkedIn,"Systems Thinking, SQL, APIs, Customer Facing, Troubleshooting",141481,Rejected,HM-2,2026-01-15T14:00:34
+106,Marc Moore,Computer Vision Engineer,Amazon,"Calgary, AB",9,LinkedIn,"Computer Vision, CNN, PyTorch, Linux, Docker",151907,Rejected,Recruiter A,2026-01-30T00:00:34
+107,Sharon Cherry,BizOps Analyst,Stripe,"Montreal, QC",5,LinkedIn,"Excel, Power BI, Process Improvement, SQL, Automation",123685,Rejected,Ops,2026-02-16T09:00:34
+108,Sierra Johnson,ML Engineer (Edge),Stripe,Remote (Canada),4,Referral,"ONNX, PyTorch, C++, Edge Deployment, TensorRT",118123,InvalidStage,HM-1,2026-02-22T10:00:34
+109,Evelyn Galvan,ML Engineer (Edge),Stripe,Remote (Canada),2,Referral,"TensorRT, PyTorch, Model Optimization, C++, ONNX",96759,Rejected,HM-1,2026-01-31T03:00:34
+110,Sharon Cochran,Deployment Engineer,Microsoft,"Vancouver, BC",4,LinkedIn,"CI/CD, Networking, Incident Response, Docker, Kubernetes",114388,Rejected,,2026-02-02T07:00:34
+111,Richard Rodriguez,Deployment Engineer,Intel,"Calgary, AB",2,Job Board,"Incident Response, Kubernetes, Monitoring, Linux, CI/CD",99893,Rejected,Ops,2026-02-19T07:00:34
+112,Shannon Walker,Computer Vision Engineer,Google,"Toronto, ON",5,LinkedIn,"CNN, Docker, Computer Vision, Linux, CUDA",132523,Rejected,HM-2,2026-02-16T00:00:34
+113,Julia Torres,Deployment Engineer,Google,"Vancouver, BC",1,LinkedIn,"Docker, Networking, Linux, CI/CD, Monitoring",99854,Rejected,Ops,2026-01-30T01:00:34
+114,Crystal Johnson,Deployment Engineer,Intel,"Vancouver, BC",3,Referral,"Kubernetes, Docker, Networking, Monitoring, Linux",118743,Rejected,HM-2,2026-01-15T20:00:34
+115,Garrett Lin,Computer Vision Engineer,Microsoft,"Toronto, ON",2,LinkedIn,"Linux, CNN, Docker, CUDA, PyTorch",112443,Rejected,Recruiter A,2026-01-25T20:00:34
+116,Diana May,ML Engineer (Edge),Google,"Calgary, AB",5,Referral,"C++, PyTorch, ONNX, Edge Deployment, Linux",134900,Rejected,Ops,2026-01-12T23:00:34
+117,William Herrera,ML Engineer (Edge),Amazon,"Calgary, AB",3,Referral,"Linux, ONNX, PyTorch, TensorRT, Edge Deployment",112430,Rejected,HM-1,2026-01-13T02:00:34
+118,Ashley Waller,Computer Vision Engineer,Amazon,"Montreal, QC",2,LinkedIn,"Docker, PyTorch, Linux, OpenCV, Computer Vision",111698,Rejected,HM-2,2026-01-22T11:00:34
+119,Victor Baker,Deployment Engineer,Stripe,Remote (Canada),4,LinkedIn,"Linux, Incident Response, Kubernetes, CI/CD, Networking",113294,Rejected,HM-2,2026-02-17T19:00:34
+120,Jeffrey Chandler,Solutions Engineer,Intel,"Vancouver, BC",5,Outreach,"Communication, Troubleshooting, Systems Thinking, Python, APIs",124609,Withdrawn,HM-1,2026-02-23T14:00:34
+121,Angelica Tucker,Computer Vision Engineer,Petco,"Vancouver, BC",5,LinkedIn,"OpenCV, PyTorch, Computer Vision, Docker, CNN",124859,Rejected,Recruiter A,2026-02-21T14:00:34
+122,Shane Henderson,Computer Vision Engineer,Intel,"Calgary, AB",2,LinkedIn,"Linux, CNN, Computer Vision, PyTorch, Docker",96679,Withdrawn,,2026-01-13T11:00:34
+123,Cristian Santos,Deployment Engineer,Shopify,"Vancouver, BC",4,Outreach,"CI/CD, Kubernetes, Linux, Networking, Incident Response",111051,Rejected,Recruiter A,2026-01-31T11:00:34
+124,Michael Lewis,Computer Vision Engineer,Microsoft,"Calgary, AB",4,Job Board,"Computer Vision, PyTorch, OpenCV, CNN, Docker",120376,Rejected,Recruiter A,2026-01-25T02:00:34
+125,Justin Baker,Deployment Engineer,Uber,"Toronto, ON",3,LinkedIn,"Docker, Kubernetes, CI/CD, Monitoring, Incident Response",118505,Rejected,Recruiter A,2026-02-14T22:00:34

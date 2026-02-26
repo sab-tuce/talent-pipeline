@@ -1,0 +1,12 @@
+metric,value
+open_roles,4.0
+total_candidates,125.0
+offers,14.0
+hired,5.0
+rejected,97.0
+withdrawn,21.0
+offer_acceptance_rate,0.357
+stale_candidates_gt_7d,29.0
+invalid_stage_events,5.0
+panel_candidates,28.0
+scorecard_completion_rate,0.929

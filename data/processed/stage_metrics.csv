@@ -1,0 +1,7 @@
+stage_name,n_events,avg_days_in_stage,min_days,max_days
+Contacted,93,3.24,0.0,16.67
+Hiring Manager,51,3.79,0.04,15.58
+Offer,14,4.49,0.25,13.0
+Panel,28,3.2,0.0,13.38
+Recruiter Screen,77,3.46,0.0,16.42
+Sourced,124,2.94,0.0,14.21

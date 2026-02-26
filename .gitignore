@@ -1,0 +1,40 @@
+# ---- Power BI ----
+dashboards/*.pbix
+dashboards/*.pbit
+dashboards/*.pbip
+
+# allow screenshots
+!dashboards/screenshots/
+!dashboards/screenshots/*
+
+# ---- Local DB / caches ----
+*.db
+*.sqlite
+*.duckdb
+talentops.db
+
+
+
+# ---- Secrets / config ----
+.env
+.env.*
+secrets.*
+credentials.*
+config.local.*
+settings.local.*
+*token*
+*apikey*
+*secret*
+*password*
+
+# ---- Python / venv ----
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# ---- OS / IDE ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

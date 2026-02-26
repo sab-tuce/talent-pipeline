@@ -1,0 +1,6 @@
+role_id,role_name,hiring_manager,priority,open_date,target_close_date,headcount,status
+1,Computer Vision Engineer,HM-1,High,2026-01-21,2026-05-06,1,Open
+2,ML Engineer (Edge),HM-1,High,2026-01-28,2026-04-26,1,Open
+3,Solutions Engineer,HM-2,Medium,2026-02-04,2026-04-21,1,Open
+4,BizOps Analyst,HM-2,High,2026-02-11,2026-04-11,1,Open
+5,Deployment Engineer,HM-1,Medium,2026-02-15,2026-04-06,1,Hold
