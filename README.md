@@ -1,4 +1,4 @@
-# Talent Pipeline MVP (Talent Ops / BizOps)
+# Talent Pipeline
 
 A small, realistic Talent Ops analytics MVP that simulates an ATS-style pipeline using **synthetic/mock data**, loads it into **SQLite**, computes **funnel + speed + process-quality KPIs** via **SQL + Python**, and visualizes results in **Power BI** (shared as screenshots).
 
